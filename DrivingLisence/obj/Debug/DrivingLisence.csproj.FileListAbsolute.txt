@@ -1,0 +1,6 @@
+C:\Users\Kasutja\source\repos\UserDate\DrivingLisence\bin\Debug\DrivingLisence.exe.config
+C:\Users\Kasutja\source\repos\UserDate\DrivingLisence\bin\Debug\DrivingLisence.exe
+C:\Users\Kasutja\source\repos\UserDate\DrivingLisence\bin\Debug\DrivingLisence.pdb
+C:\Users\Kasutja\source\repos\UserDate\DrivingLisence\obj\Debug\DrivingLisence.csproj.CoreCompileInputs.cache
+C:\Users\Kasutja\source\repos\UserDate\DrivingLisence\obj\Debug\DrivingLisence.exe
+C:\Users\Kasutja\source\repos\UserDate\DrivingLisence\obj\Debug\DrivingLisence.pdb

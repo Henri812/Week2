@@ -1,0 +1,7 @@
+C:\Users\Kasutja\source\repos\UserDate\UserDate\obj\Debug\UserDate.csproj.AssemblyReference.cache
+C:\Users\Kasutja\source\repos\UserDate\UserDate\obj\Debug\UserDate.csproj.CoreCompileInputs.cache
+C:\Users\Kasutja\source\repos\UserDate\UserDate\bin\Debug\UserDate.exe.config
+C:\Users\Kasutja\source\repos\UserDate\UserDate\bin\Debug\UserDate.exe
+C:\Users\Kasutja\source\repos\UserDate\UserDate\bin\Debug\UserDate.pdb
+C:\Users\Kasutja\source\repos\UserDate\UserDate\obj\Debug\UserDate.exe
+C:\Users\Kasutja\source\repos\UserDate\UserDate\obj\Debug\UserDate.pdb

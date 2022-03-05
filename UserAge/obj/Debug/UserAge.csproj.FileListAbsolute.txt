@@ -1,0 +1,7 @@
+C:\Users\Kasutja\source\repos\UserDate\UserAge\bin\Debug\UserAge.exe.config
+C:\Users\Kasutja\source\repos\UserDate\UserAge\bin\Debug\UserAge.exe
+C:\Users\Kasutja\source\repos\UserDate\UserAge\bin\Debug\UserAge.pdb
+C:\Users\Kasutja\source\repos\UserDate\UserAge\obj\Debug\UserAge.csproj.CoreCompileInputs.cache
+C:\Users\Kasutja\source\repos\UserDate\UserAge\obj\Debug\UserAge.exe
+C:\Users\Kasutja\source\repos\UserDate\UserAge\obj\Debug\UserAge.pdb
+C:\Users\Kasutja\source\repos\UserDate\UserAge\obj\Debug\UserAge.csproj.AssemblyReference.cache

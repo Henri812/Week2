@@ -1,0 +1,7 @@
+C:\Users\Kasutja\source\repos\UserDate\InstagramAgeCheck\obj\Debug\InstagramAgeCheck.csproj.AssemblyReference.cache
+C:\Users\Kasutja\source\repos\UserDate\InstagramAgeCheck\obj\Debug\InstagramAgeCheck.csproj.CoreCompileInputs.cache
+C:\Users\Kasutja\source\repos\UserDate\InstagramAgeCheck\bin\Debug\InstagramAgeCheck.exe.config
+C:\Users\Kasutja\source\repos\UserDate\InstagramAgeCheck\bin\Debug\InstagramAgeCheck.exe
+C:\Users\Kasutja\source\repos\UserDate\InstagramAgeCheck\bin\Debug\InstagramAgeCheck.pdb
+C:\Users\Kasutja\source\repos\UserDate\InstagramAgeCheck\obj\Debug\InstagramAgeCheck.exe
+C:\Users\Kasutja\source\repos\UserDate\InstagramAgeCheck\obj\Debug\InstagramAgeCheck.pdb
